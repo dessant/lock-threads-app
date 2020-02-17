@@ -2,6 +2,9 @@
 
 [![Version](https://img.shields.io/npm/v/lock-threads.svg?colorB=007EC6)](https://www.npmjs.com/package/lock-threads)
 
+> This project is in maintenance mode, migrating to the version
+built on GitHub Actions is recommended: https://github.com/dessant/lock-threads
+
 Lock Threads is a GitHub App inspired by [Stale](https://github.com/probot/stale)
 and built with [Probot](https://github.com/probot/probot)
 that locks closed issues and pull requests after a period of inactivity.
@@ -102,7 +105,7 @@ instance of this app.
 
 ## License
 
-Copyright (c) 2017-2019 Armin Sebastian
+Copyright (c) 2017-2020 Armin Sebastian
 
 This software is released under the terms of the MIT License.
 See the [LICENSE](LICENSE) file for further information.
