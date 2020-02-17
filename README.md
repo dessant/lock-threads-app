@@ -1,6 +1,5 @@
 # Lock Threads
 
-[![Build Status](https://img.shields.io/travis/com/dessant/lock-threads/master.svg)](https://travis-ci.com/dessant/lock-threads)
 [![Version](https://img.shields.io/npm/v/lock-threads.svg?colorB=007EC6)](https://www.npmjs.com/package/lock-threads)
 
 Lock Threads is a GitHub App inspired by [Stale](https://github.com/probot/stale)
@@ -36,7 +35,7 @@ or add it at the same file path to a repository named `.github`.
 The file can be empty, or it can override any of these default settings:
 
 ```yaml
-# Configuration for Lock Threads - https://github.com/dessant/lock-threads
+# Configuration for Lock Threads - https://github.com/dessant/lock-threads-app
 
 # Number of days of inactivity before a closed issue or pull request is locked
 daysUntilLock: 365

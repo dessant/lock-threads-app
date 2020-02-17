@@ -5,10 +5,10 @@
   "author": "Armin Sebastian",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/dessant/lock-threads.git",
+    "url": "https://github.com/dessant/lock-threads-app.git",
     "type": "git"
   },
-  "bugs": "https://github.com/dessant/lock-threads/issues",
+  "bugs": "https://github.com/dessant/lock-threads-app/issues",
   "main": "src/index.js",
   "scripts": {
     "start": "probot run ./src/index.js",

@@ -1,6 +1,6 @@
 A GitHub App that locks closed issues and pull requests after a period of inactivity.
 
-![](https://raw.githubusercontent.com/dessant/lock-threads/master/assets/screenshot.png)
+![](https://raw.githubusercontent.com/dessant/lock-threads-app/master/assets/screenshot.png)
 
 ## Supporting the Project
 
@@ -19,7 +19,7 @@ The continued development of Lock Threads is made possible thanks to the support
 Create `.github/lock.yml` in the default branch to enable the app, or add it at the same file path to a repository named `.github`. The file can be empty, or it can override any of these default settings:
 
 ```yaml
-# Configuration for Lock Threads - https://github.com/dessant/lock-threads
+# Configuration for Lock Threads - https://github.com/dessant/lock-threads-app
 
 # Number of days of inactivity before a closed issue or pull request is locked
 daysUntilLock: 365
