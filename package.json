@@ -13,7 +13,7 @@
   "scripts": {
     "start": "probot run ./src/index.js",
     "watch": "nodemon --exec 'yarn run start'",
-    "update": "ncu --upgrade && yarn",
+    "update": "ncu --upgrade",
     "push": "git push --follow-tags origin master",
     "release": "standard-version"
   },
