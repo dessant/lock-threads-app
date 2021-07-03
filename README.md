@@ -2,8 +2,7 @@
 
 [![Version](https://img.shields.io/npm/v/lock-threads.svg?colorB=007EC6)](https://www.npmjs.com/package/lock-threads)
 
-> This project is in maintenance mode, migrating to the version
-built on GitHub Actions is recommended: https://github.com/dessant/lock-threads
+> This project is no longer maintained, please migrate to [Lock Threads](https://github.com/dessant/lock-threads).
 
 Lock Threads is a GitHub App inspired by [Stale](https://github.com/probot/stale)
 and built with [Probot](https://github.com/probot/probot)
@@ -11,18 +10,9 @@ that locks closed issues and pull requests after a period of inactivity.
 
 ![](assets/screenshot.png)
 
-## Supporting the Project
-
-The continued development of Lock Threads is made possible
-thanks to the support of awesome backers. If you'd like to join them,
-please consider contributing with
-[Patreon](https://armin.dev/go/patreon?pr=lock-threads&src=repo),
-[PayPal](https://armin.dev/go/paypal?pr=lock-threads&src=repo) or
-[Bitcoin](https://armin.dev/go/bitcoin?pr=lock-threads&src=repo).
-
 ## Usage
 
-1. **[Install the GitHub App](https://github.com/apps/lock)**
+1. **[Install the GitHub App]()**
    for the intended repositories
 2. Create `.github/lock.yml` based on the template below
 3. It will start scanning for closed issues and/or pull requests within an hour
@@ -105,7 +95,7 @@ instance of this app.
 
 ## License
 
-Copyright (c) 2017-2020 Armin Sebastian
+Copyright (c) 2017-2021 Armin Sebastian
 
 This software is released under the terms of the MIT License.
 See the [LICENSE](LICENSE) file for further information.

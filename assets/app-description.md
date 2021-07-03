@@ -2,13 +2,9 @@ A GitHub App that locks closed issues and pull requests after a period of inacti
 
 ![](https://raw.githubusercontent.com/dessant/lock-threads-app/master/assets/screenshot.png)
 
-## Supporting the Project
-
-The continued development of Lock Threads is made possible thanks to the support of awesome backers. If you'd like to join them, please consider contributing with [Patreon](https://armin.dev/go/patreon?pr=lock-threads&src=app), [PayPal](https://armin.dev/go/paypal?pr=lock-threads&src=app) or [Bitcoin](https://armin.dev/go/bitcoin?pr=lock-threads&src=app).
-
 ## Usage
 
-1. **[Install the GitHub App](https://github.com/apps/lock)** for the intended repositories
+1. **[Install the GitHub App]()** for the intended repositories
 2. Create `.github/lock.yml` based on the template below
 3. It will start scanning for closed issues and/or pull requests within an hour
 
